@@ -1,0 +1,1704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"poke",
+				"pokelist"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"red",
+				"reduce"
+			],
+			[
+				"cp",
+				"cpAndPrice"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"y",
+				"yScale"
+			],
+			[
+				"filte",
+				"filter"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"pok",
+				"pokemon"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"rank",
+				"rankingAndDex"
+			],
+			[
+				"fav",
+				"favorite"
+			],
+			[
+				"dex",
+				"dexNumber"
+			],
+			[
+				"rede",
+				"reduceCount"
+			],
+			[
+				"pokedex",
+				"pokedexNumber"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"favo",
+				"favoriteFirstGen"
+			],
+			[
+				"fao",
+				"favoriteFirstGen"
+			],
+			[
+				"query",
+				"querySelectorAll"
+			],
+			[
+				"make",
+				"makePokeItem"
+			],
+			[
+				"sort",
+				"sorted"
+			],
+			[
+				"gene",
+				"generalRanking"
+			],
+			[
+				"x",
+				"xDomain"
+			],
+			[
+				"set",
+				"setNode"
+			],
+			[
+				"crea",
+				"createTextNode"
+			],
+			[
+				"ic",
+				"createPokémonIcon"
+			],
+			[
+				"cards",
+				"cards"
+			],
+			[
+				"na",
+				"nationalPokedexNumber"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"create",
+				"createElement"
+			],
+			[
+				"card",
+				"card"
+			],
+			[
+				"se",
+				"querySelector"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"reduce",
+				"reduceCount"
+			],
+			[
+				"genera",
+				"generalRankingAndPrice"
+			],
+			[
+				"marke",
+				"markerLayer"
+			],
+			[
+				"mark",
+				"markerLayer"
+			],
+			[
+				"p",
+				"publicid"
+			],
+			[
+				"name",
+				"nameById"
+			],
+			[
+				"eleme",
+				"elementos"
+			],
+			[
+				"el",
+				"elemento"
+			],
+			[
+				"if",
+				"ifmain\tif __name__ == '__main__'"
+			],
+			[
+				"rep",
+				"repY"
+			],
+			[
+				"re",
+				"repY"
+			],
+			[
+				"sub",
+				"subconjunto"
+			],
+			[
+				"cha",
+				"chavear"
+			],
+			[
+				"elemento",
+				"elementos"
+			],
+			[
+				"exe",
+				"exemplo"
+			],
+			[
+				"ch",
+				"chavear"
+			],
+			[
+				"veto",
+				"vetorDatas"
+			],
+			[
+				"Heap",
+				"HeapMáxima"
+			],
+			[
+				"ins",
+				"inserir"
+			],
+			[
+				"ve",
+				"vetor"
+			],
+			[
+				"vetor",
+				"vetorOrdenado"
+			],
+			[
+				"ín",
+				"índice"
+			],
+			[
+				"chave",
+				"chave"
+			],
+			[
+				"hea",
+				"heap"
+			],
+			[
+				"heap",
+				"heapficar"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"ace",
+				"acessoOuMenosInfinito"
+			],
+			[
+				"he",
+				"heapficar"
+			],
+			[
+				"He",
+				"HeapMáxima"
+			],
+			[
+				"poss",
+				"possívelElemento"
+			],
+			[
+				"pos",
+				"possívelElemento"
+			],
+			[
+				"ele",
+				"elementoAnterior"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Pro",
+				"PromiseBuilder()\tfn "
+			],
+			[
+				"de",
+				"degree"
+			],
+			[
+				"sty",
+				"style〔variable〕"
+			],
+			[
+				"coedpo",
+				"codePointAt"
+			],
+			[
+				"code",
+				"codePoint\t? "
+			],
+			[
+				"codepo",
+				"codePoint\t? "
+			],
+			[
+				"Hsi",
+				"HSigs"
+			],
+			[
+				"Hs",
+				"HSigs"
+			],
+			[
+				"out",
+				"output_layer"
+			],
+			[
+				"exp",
+				"expect_same"
+			],
+			[
+				"bzi",
+				"bezier_y"
+			],
+			[
+				"bez",
+				"bezier_x"
+			],
+			[
+				"f",
+				"fun\tFunction"
+			],
+			[
+				"ss",
+				"sspr"
+			],
+			[
+				"Toke",
+				"Token"
+			],
+			[
+				"w",
+				"while-let\twhile let … = … { … }"
+			],
+			[
+				"Nat",
+				"NatLiteral"
+			],
+			[
+				"prin",
+				"print\tprint!(…)"
+			],
+			[
+				"ass",
+				"assert\tassert!(…)"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			],
+			[
+				"asser",
+				"assert_eq\tassert_eq!(…, …)"
+			],
+			[
+				"I",
+				"Identifier"
+			],
+			[
+				"ident",
+				"ident_buffer"
+			],
+			[
+				"match",
+				"match_single_tokens"
+			],
+			[
+				"esta",
+				"estação_mais_perto_da_coordenada"
+			],
+			[
+				"estação",
+				"estação_mais_perto_da_coordenada"
+			],
+			[
+				"coor",
+				"coordenada"
+			],
+			[
+				"link",
+				"link_do_gmaps"
+			],
+			[
+				"coo",
+				"coordenada"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"pl",
+				"playerN"
+			],
+			[
+				"pla",
+				"PlayerActions"
+			],
+			[
+				"Mouse",
+				"KeyOrMouseButton"
+			],
+			[
+				"alt",
+				"altPositiveButton"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"qu",
+				"querySelectorAll"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"swi",
+				"switch_lang"
+			],
+			[
+				"hr",
+				"href\tAttr"
+			],
+			[
+				"var",
+				"variables"
+			],
+			[
+				"vari",
+				"variaveis_exp"
+			],
+			[
+				"labe",
+				"labels_exp"
+			],
+			[
+				"pro",
+				"programa_exp"
+			],
+			[
+				"comando",
+				"comando_exp"
+			],
+			[
+				"coman",
+				"Comando"
+			],
+			[
+				"fresh",
+				"fresh_var"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"res",
+				"resultado"
+			],
+			[
+				"entra",
+				"entradaRaw"
+			],
+			[
+				"bust",
+				"busStop"
+			],
+			[
+				"prom",
+				"promessaBus"
+			],
+			[
+				"border-le",
+				"border-left-color"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"hre",
+				"hreflang\tAttr"
+			],
+			[
+				"box-",
+				"box-sizing"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"last",
+				"last_arrow"
+			],
+			[
+				"else",
+				"else\telse"
+			],
+			[
+				"url",
+				"URL"
+			],
+			[
+				"should_",
+				"should_credits"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/main.ts",
+			"settings":
+			{
+				"buffer_size": 28,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "out/main.js",
+			"settings":
+			{
+				"buffer_size": 42,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 2332,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 5420,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ss pytho",
+				"Set Syntax: Python"
+			],
+			[
+				"ss json",
+				"Set Syntax: JSON"
+			],
+			[
+				"ss c",
+				"Set Syntax: C"
+			],
+			[
+				"ss md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"space",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ss latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ss py",
+				"Set Syntax: Python3"
+			],
+			[
+				"ss mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"ss py3",
+				"Set Syntax: Python3"
+			],
+			[
+				"package remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"ss lat",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"ss tex",
+				"Set Syntax: TeX"
+			],
+			[
+				"ss go",
+				"Set Syntax: Go"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packa in",
+				"Package Control: Install Package"
+			],
+			[
+				"SS sh",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"lt check",
+				"LanguageTool: Check Text"
+			],
+			[
+				"lt su",
+				"LanguageTool: Apply Suggested Correction(s)"
+			],
+			[
+				"langua check",
+				"LanguageTool: Check Text"
+			],
+			[
+				"languagetool",
+				"LanguageTool: Check Text"
+			],
+			[
+				"SS javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ss java",
+				"Set Syntax: Java"
+			],
+			[
+				"langtool",
+				"LanguageTool: Apply Suggested Correction(s)"
+			],
+			[
+				"languate",
+				"LanguageTool: Start Local Server"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				" remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"packaget install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"pacakge list",
+				"Package Control: List Packages"
+			],
+			[
+				"SS babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"SS MD",
+				"Set Syntax: Markdown"
+			],
+			[
+				"edior",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"packagi",
+				"Package Control: Install Package"
+			],
+			[
+				"ss bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"SS javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"SS JS",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"packa isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"SS MARk",
+				"Set Syntax: Markdown"
+			],
+			[
+				"SS late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"SS md",
+				"Set Syntax: Markdown"
+			],
+			[
+				"SS Mat",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"juli",
+				"Set Syntax: Julia"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"SS Rust",
+				"Set Syntax: Rust"
+			],
+			[
+				"white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"SS C",
+				"Set Syntax: C"
+			],
+			[
+				"SS Mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"SS text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"SS D",
+				"Set Syntax: D"
+			],
+			[
+				"SS HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"SS C++",
+				"Set Syntax: C++"
+			],
+			[
+				"SS",
+				"Set Syntax: C"
+			],
+			[
+				"snii",
+				"Snippet: Equation"
+			],
+			[
+				"ss late",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"strip",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"SS Bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"SS Py",
+				"Set Syntax: Python"
+			],
+			[
+				"SS rack",
+				"Set Syntax: Racket"
+			],
+			[
+				"SS TEX",
+				"Set Syntax: TeX"
+			],
+			[
+				"ts dele",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"SS Pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"SS CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"SS Lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"trailin g",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"trailing white",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"strip w",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"p8 r",
+				"PICO-8: Run Cartridge"
+			],
+			[
+				"SS LUA",
+				"Set Syntax: Lua"
+			],
+			[
+				"p8 run",
+				"PICO-8: Run Cartridge"
+			],
+			[
+				"pico",
+				"PICO-8: Browse API Reference"
+			],
+			[
+				"SS pic",
+				"Set Syntax: PICO-8"
+			],
+			[
+				"trailing",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"wrtw",
+				"Whitespace: Remove Trailing Whitespace"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"SS HTMl",
+				"Set Syntax: HTML"
+			],
+			[
+				"SS TS",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"line",
+				"Line Ending to all views: Unix"
+			],
+			[
+				"pc install",
+				"Package Control: Install Package"
+			],
+			[
+				"SS py",
+				"Set Syntax: Python"
+			],
+			[
+				"package COntrol:",
+				"Package Control: Discover Packages"
+			],
+			[
+				"SS pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"SS JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"SS Ma",
+				"Set Syntax: Makefile"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"idris",
+				"Idris: Case split"
+			],
+			[
+				"SS Idri",
+				"Set Syntax: Idris"
+			],
+			[
+				"pC ",
+				"Package Control: Install Package"
+			],
+			[
+				"PC install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"haskel",
+				"Set Syntax: Haskell"
+			],
+			[
+				"pacakge",
+				"Package Control: Install Package"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"HTML",
+				"Set Syntax: HTML"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"roboc",
+				"Set Syntax: RobotC"
+			],
+			[
+				"pa",
+				"Package Control: Enable Package"
+			],
+			[
+				"pacak",
+				"Package Control: Advanced Install Package"
+			],
+			[
+				"snippet:",
+				"Snippet: defvar"
+			],
+			[
+				"syntax lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"syntax has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"racket",
+				"Set Syntax: Racket"
+			],
+			[
+				"lisp",
+				"Set Syntax: Lisp"
+			],
+			[
+				"alignt",
+				"AlignTab"
+			],
+			[
+				"table ",
+				"AlignTab: Table Mode"
+			],
+			[
+				"ALIGN",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"aligntab ta",
+				"AlignTab: Table Mode"
+			]
+		],
+		"width": 436.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"node",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/sentr/Documents/Home/Programação/Powell/src",
+		"/C/Users/sentr/Documents/Home/Programação/Powell",
+		"/C/Users/sentr/Documents/Home/Programação/Powell/out"
+	],
+	"file_history":
+	[
+		"/C/Users/sentr/Documents/Home/Programação/Powell/examples/Heron's Method.pwl",
+		"/C/Users/sentr/Documents/Home/Programação/Powell/.editorconfig",
+		"/C/Users/sentr/Documents/Home/Programação/Powell/tsconfig.json",
+		"/C/Users/sentr/Documents/Home/Programação/Powell/Modelos Dinâmicos.pwl",
+		"/C/Users/sentr/Documents/Home/Programação/Powell/Heron's Method.pwl",
+		"/C/Users/sentr/Documents/Home/Programação/Powell/Powell.sublime-project",
+		"/C/Users/sentr/Documents/Home/Programação/GP/kernels.py",
+		"/C/Users/sentr/Desktop/Modelos Dinâmicos.pwl",
+		"/C/Users/sentr/Desktop/Modelos Dinâmicos.powell",
+		"/C/Users/sentr/Desktop/Lu/batch.txt",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/css/index.css",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/third-party/css/dc.min.css",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/js/helper.js",
+		"/C/Users/sentr/Documents/Home/Programação/GP/dynamic.ipynb",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/js/index2.js",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/js/index.js",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/index2.html",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/index.html",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/d3_crossfilter/css/dc.min.css",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/js/icons.js",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/data/prices.tsv",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/data/Base.json",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/leaflet/chicago.html",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/js/pokedex.js",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/python/price_crawler.py",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/js/cards.js",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/third-party/js/d3-tip.js",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/third-party/css/pokesprite.min.css",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/projeto_final/python/prices.tsv",
+		"/C/Users/sentr/Desktop/amelia/umake.c",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/d3_interactive/data/earthquakes.csv",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/d3_interactive/earthquakes.html",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/d3_interactive/usa.html",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/color-d3/index.md",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/d3_interactive/index.md",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/README.md",
+		"/C/Users/sentr/Documents/Home/Programação/datavis-course/d3_interactive/data/county_names.csv",
+		"/C/Users/sentr/AppData/Local/Temp/arg_parse.c-1.txt",
+		"/C/Users/sentr/AppData/Local/Temp/arg_parse.h-1.txt",
+		"/C/Users/sentr/AppData/Local/Temp/target.c-1.txt",
+		"/C/Users/sentr/AppData/Local/Temp/target.h-1.txt",
+		"/C/Users/sentr/AppData/Local/Temp/umake.c-1.txt",
+		"/C/Users/sentr/AppData/Local/Temp/arg_parse.c.txt",
+		"/C/Users/sentr/AppData/Local/Temp/arg_parse.h.txt",
+		"/C/Users/sentr/Desktop/uMakefile4.txt",
+		"/C/Users/sentr/AppData/Local/Temp/umake.c.txt",
+		"/C/Users/sentr/AppData/Local/Temp/target.h.txt",
+		"/C/Users/sentr/AppData/Local/Temp/target.c.txt",
+		"/C/Users/sentr/Documents/Home/Programação/bicicletar.js",
+		"/C/Users/sentr/Downloads/Telegram Desktop/Andre Paiva - -RELEASE GREENMILE-.txt",
+		"/C/Users/sentr/Downloads/Telegram Desktop/drivers_ffor (3)",
+		"/C/Users/sentr/Downloads/Telegram Desktop/drivers_ffor",
+		"/C/Users/sentr/Downloads/Telegram Desktop/drivers_ffor (2)",
+		"/C/Users/sentr/Downloads/intro_web_vis/README.md",
+		"/C/Users/sentr/Documents/Home/Mestrado/Data/Vinho/winequality.names.txt",
+		"/C/Users/sentr/Desktop/Kanjis.txt",
+		"/C/Users/sentr/Documents/Home/Mestrado/Data/Vinho/winequality-red.csv",
+		"/C/Users/sentr/AppData/Local/Temp/SortCompare.java",
+		"/C/Users/sentr/Desktop/remove us.reg",
+		"/C/Users/sentr/.gradle/gradle.properties",
+		"/C/Users/sentr/AppData/Local/Temp/covFunctions.m",
+		"/C/Users/sentr/AppData/Local/Temp/games_achievements_players_2018-07-01.csv",
+		"/C/Users/sentr/Desktop/BK02.32~35 漢字 の 読み方.txt",
+		"/C/Users/sentr/Desktop/bla.tex",
+		"/C/Users/sentr/AppData/Local/Temp/7zO07A67B58/Readme.txt",
+		"/C/Users/sentr/AppData/Roaming/Mozilla/Firefox/Profiles/garrtyql.default/chrome/userContent.css",
+		"/C/Users/sentr/Desktop/sebcode.tar/rtcodepub/hdtnode.h",
+		"/C/Users/sentr/Desktop/sebcode.tar/rtcodepub/segment.h",
+		"/C/Users/sentr/Desktop/sebcode.tar/rtcodepub/hdtree.h",
+		"/C/Users/sentr/Desktop/sebcode.tar/rtcodepub/hdtree.cpp",
+		"/C/Users/sentr/Desktop/sebcode.tar/rtcodepub/buildSEB.cpp",
+		"/C/Users/sentr/Desktop/sebcode.tar/rtcodepub/segment.cpp",
+		"/C/Users/sentr/Desktop/asd.tex",
+		"/C/Users/sentr/AppData/Local/Temp/cana.lista2.cpp",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/lista-07/questão01.py",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/lista-06/questão01.py",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/listas-eda.sublime-project",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/lista-05/questão01.py",
+		"/C/Users/sentr/Documents/Home/Programação/Regis/bitarray.py",
+		"/C/Users/sentr/Documents/Home/Programas/Telegram/tdata/tdld/thonk.txt",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/lista-03/questão01.py",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/questão01.py",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/lista-03/primeiros_10000_primos.txt",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/README.md",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/User/Package Control.sublime-settings",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/sentr/Documents/Home/Programação/listas-eda/.gitignore",
+		"/C/Users/sentr/Downloads/NHK Easy - Better dictionary.user.js",
+		"/C/Users/sentr/Downloads/MathJax for Reddit.user.js",
+		"/C/Users/sentr/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/home/dani/.bashrc",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/GoSublime/CHANGELOG.md",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/GoSublime/USAGE.md",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/GoSublime/GoSublime.sublime-settings",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/User/GoSublime.sublime-settings",
+		"/C/Users/sentr/Documents/Home/Programas/Sublime Text/Data/Packages/GoSublime/9o.md",
+		"/C/Users/sentr/Downloads/[BakaBT.345391v0] [Commie] Neon Genesis Evangelion - The End of Evangelion v2 [BD 1080p AAC] [C65D0141].mkv.txt",
+		"/C/Users/sentr/Downloads/READ.txt",
+		"/C/Users/sentr/Documents/Home/Programação/GM/gm-server/src/main/resources/bootstrap.yml",
+		"/C/Users/sentr/Documents/Home/Programação/GM/gm-server/pom.xml",
+		"/C/Users/sentr/Documents/Home/Programação/GM/gm-server/src/main/resources/application.yml",
+		"/C/Users/sentr/AppData/Local/Temp/7zO80462E30/Modo Torneio - Dia 2.csv",
+		"/C/Users/sentr/Desktop/to study.txt",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/minecraft/launcher_profiles.json",
+		"/C/Users/sentr/Documents/Home/Programação/LePetitShooter/tags.txt",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/mbkup/launcher_profiles.json",
+		"/C/Users/sentr/AppData/Roaming/.minecraft/launcher_profiles.json",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/gamedir/servers.dat",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/.minecraft/launcher_profiles.json",
+		"/C/Users/sentr/AppData/Roaming/.minecraft/minecraft launcher/options.json",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/.minecraft/servers.dat",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/.minecraft/Read Me!.url",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/gamedir/options.txt",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/.minecraft/versions/1.7.10-Forge10.13.4.1614-1.7.10/1.7.10-Forge10.13.4.1614-1.7.10.json",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/%APPDATA%/.minecraft/launcher_profiles.json",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/%APPDATA%/.minecraft/minecraft launcher/options.json",
+		"/C/Users/sentr/Desktop/log conversa.txt",
+		"/C/Users/sentr/Desktop/Lixo/pirata/caccraft/gamedir/optionsof.txt",
+		"/C/Users/sentr/Documents/Home/Programas/Telegram/tdata/tdld/fml-client-latest.log",
+		"/C/Users/sentr/Documents/Home/Programas/Telegram/tdata/tdld/fml-client-latest (2).log",
+		"/C/Users/sentr/Documents/Home/Programas/Telegram/tdata/tdld/fml-client-latest (3).log",
+		"/C/Users/sentr/Desktop/Lixo/gradschool/personal statement.txt",
+		"/C/Users/sentr/AppData/Local/Temp/scp18545/var/games/minecraft/servers/cac/smart_moving_options.txt",
+		"/C/Users/sentr/Downloads/SudokuP (1).java",
+		"/C/Users/sentr/Desktop/Lixo/pirata/install.bat",
+		"/C/Users/sentr/AppData/Roaming/.minecraft/servers.dat",
+		"/C/Users/sentr/AppData/Roaming/.minecraft/versions/1.7.10/1.7.10.json",
+		"/C/Users/sentr/AppData/Roaming/.minecraft/options.txt"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 138.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"out",
+			"good",
+			"'wind_spd','power'",
+			"https://youtu.be/",
+			"^\"(.*?)(?:\\\\n)?\",?$",
+			"^\"(.+?)(?:\\\\n)?\",?$",
+			"\"(.+?)",
+			"\\n,",
+			"\"",
+			"box",
+			"bold",
+			"onsole.log",
+			"dimensions.price.bottom(1)[0].price",
+			"filterable",
+			"pricesBy",
+			", default",
+			"priceByDex",
+			"dimension",
+			"pricesByDex",
+			"expensive",
+			"legal-prices-by-",
+			"gen1",
+			"artist",
+			"price",
+			"cfCards",
+			"cpAndPrice",
+			"rankingAndPrice",
+			"groups.rankingAndPrice",
+			"pop-by-price",
+			"rank",
+			" = {}",
+			"dimensions.type",
+			"gen1",
+			"most-repres",
+			"img",
+			"legalf-cards",
+			"maps.cards",
+			"legal",
+			"gen1f",
+			"firstGenSelector",
+			"favoriteFirstGen",
+			"updateFirstGenFavorite",
+			"gen1f",
+			"cards",
+			"filterables",
+			"h4",
+			"5",
+			"10",
+			"groups.priceByRarity",
+			"rarity",
+			"855",
+			".height(500)",
+			".height(500)\n         ",
+			"height\\(",
+			"height(",
+			"Preço",
+			"let",
+			"x",
+			"gen1-types",
+			"chartToUpdate",
+			"\"",
+			"rankingAndDex",
+			"order",
+			"groups.rankingAndDex",
+			"ol",
+			"old",
+			"rankingAndPrice",
+			"gen1-pop-by-price",
+			"ol",
+			"[0]",
+			"await",
+			"createPokémonIcon",
+			"rankingAndPrice",
+			"type",
+			"pokedexNumber",
+			"groups.pokedexNUmber",
+			"rankingAndPrice",
+			"pokedexNumber",
+			"price",
+			"cards",
+			"gen1-pop-by-price",
+			"Sakurai:",
+			"Interviewer:",
+			"p",
+			"ul",
+			"span",
+			"ul",
+			"span",
+			"chart",
+			"pixel",
+			"cartas",
+			"cards",
+			"sets",
+			"rv",
+			"let",
+			"gen1f",
+			"span",
+			"div",
+			"reduceCount",
+			"span",
+			"Pokémon",
+			"pokémon",
+			"firstGenSelector.childNodes[3]",
+			"float:",
+			".value",
+			"String",
+			"publicid",
+			"crimes",
+			"index2",
+			"index1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$1",
+			"cinco",
+			"dez"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/main.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 0,
+								"count": 1,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": true,
+								"indentSize": 2,
+								"tabSize": 2
+							},
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "out/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 42,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								42,
+								42
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4,
+								4
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5420,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"editorconfig": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true,
+							"word_wrap": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.3333333333
+	},
+	"input":
+	{
+		"height": 56.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 159.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Powell.sublime-project",
+	"replace":
+	{
+		"height": 73.3333333333
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"dc.min.css",
+				"projeto_final\\third-party\\css\\dc.min.css"
+			],
+			[
+				"dc.min",
+				"d3_crossfilter\\css\\dc.min.css"
+			],
+			[
+				"index.js",
+				"projeto_final\\js\\index.js"
+			],
+			[
+				"vertical",
+				"Assets\\Scripts\\Title Screen\\UI Components\\VerticalUiInput.cs"
+			],
+			[
+				"",
+				"xxxxvvvvv"
+			],
+			[
+				"imgui",
+				"Includes\\imgui.h"
+			],
+			[
+				"csg",
+				"Source\\csgtree.cpp"
+			],
+			[
+				"inte",
+				"Source\\interface.cpp"
+			],
+			[
+				"model.h",
+				"Source\\model.h"
+			],
+			[
+				"interfa",
+				"Source\\interface.cpp"
+			],
+			[
+				"octree.cpp",
+				"Source\\octree.cpp"
+			],
+			[
+				"model",
+				"Source\\model.h"
+			],
+			[
+				"make",
+				"Root\\makefile"
+			],
+			[
+				"inter",
+				"Source\\interface.cpp"
+			],
+			[
+				"makefil",
+				"Root\\makefile"
+			],
+			[
+				"octree",
+				"Source\\octree.cpp"
+			],
+			[
+				"oc",
+				"Source\\octree.cpp"
+			],
+			[
+				"shapce",
+				"Source\\shapes.cpp"
+			],
+			[
+				"tree",
+				"Source\\tree.cpp"
+			],
+			[
+				"boud",
+				"Source\\boundingbox.cpp"
+			],
+			[
+				"shap",
+				"Source\\shapes.cpp"
+			],
+			[
+				"imguicpp",
+				"ImGui\\imgui.cpp"
+			],
+			[
+				"main",
+				"Source\\main.cpp"
+			],
+			[
+				"glf",
+				"Includes\\GLFW\\glfw3.h"
+			],
+			[
+				"gl",
+				"Includes\\GLFW\\glfw3.h"
+			],
+			[
+				"boun",
+				"Source\\boundingbox.cpp"
+			],
+			[
+				"rea",
+				"Root\\README.md"
+			],
+			[
+				"imgui_impl",
+				"Includes\\imgui_impl_glfw.h"
+			],
+			[
+				"imgui.h",
+				"Includes\\imgui.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
